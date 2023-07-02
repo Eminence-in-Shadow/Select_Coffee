@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "805509059020",
+    "project_id": "brew-crew-8eeea",
+    "storage_bucket": "brew-crew-8eeea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805509059020:android:8bde2d0ee9be6475018d69",
+        "android_client_info": {
+          "package_name": "com.thehero.untitled6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805509059020-rnsvebvm76n83eot0hsl325fqo677nen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjcROOBZDl6q65kIWrH0vOBuFT1NuTSAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805509059020-rnsvebvm76n83eot0hsl325fqo677nen.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "805509059020-nrm8k98ifs6raoc8t5ubssg2qnutfca1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled6"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
